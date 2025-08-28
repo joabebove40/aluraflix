@@ -1,10 +1,10 @@
 /*variaveis*/
 :root {
-    --preto: #000;
-    --branco: #fff;
-    --lilas-claro: #eb76db;
+    --preto: #000000;
+    --branco: #ffffff;
+    --lilas-claro: #769feb;
     --azul-médio: #2f4dd1;
-    --amarelo:#cfe80d;
+    --amarelo:#e80d0d;
 }
 /*corpo da página*/
 body {
